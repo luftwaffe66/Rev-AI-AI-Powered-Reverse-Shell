@@ -9,7 +9,7 @@ from openai import OpenAI
 # =========================
 # CONFIGURACIÓN SEGURA
 # =========================
-DEEPSEEK_API_KEY = 'sk-9fce1fbb2b93435184164d30379c7190'  # Usar la clave real
+DEEPSEEK_API_KEY = 'sk-7a2d8c4e6f9b1a3d5e7c9f2b4a6d8e0c'  # Usar la clave real
 HOST = os.getenv('RSHELL_HOST', '192.168.36.41')
 PORT = int(os.getenv('RSHELL_PORT', 62065))
 RECONNECT_DELAY = int(os.getenv('RSHELL_RECONNECT', 15))
