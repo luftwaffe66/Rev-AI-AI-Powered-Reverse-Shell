@@ -27,7 +27,7 @@ Rev-AI is an intelligent reverse shell client that:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rev-ai.git
+git clone https://github.com/1603160/Rev-AI-AI-Powered-Reverse-Shell.git
 cd rev-ai
 
 # Install dependencies
@@ -112,8 +112,8 @@ MIT License - See [LICENSE](LICENSE) for full text.
 ## 📬 Contact
 
 For security reports or questions:
-- Email: your@email.com
-- GitHub Issues: [Open Issue](https://github.com/yourusername/rev-ai/issues)
+- Email: servidor-shell@proton.me
+- GitHub Issues: [Open Issue](https://github.com/1603160/Rev-AI-AI-Powered-Reverse-Shell/issues)
 
 ---
 
