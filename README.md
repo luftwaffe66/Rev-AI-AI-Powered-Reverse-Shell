@@ -43,7 +43,7 @@ Maintains conversation history with AI model
 
 ⚙️ Installation
 # Clone the repository
-git clone [https://github.com/yourusername/rev-ai](https://github.com/1603160/Rev-AI-AI-Powered-Reverse-Shell).git
+git clone [https://github.com/1603160/Rev-AI-AI-Powered-Reverse-Shell.git](https://github.com/1603160/Rev-AI-AI-Powered-Reverse-Shell.git)
 cd rev-ai
 
 # Install dependencies
