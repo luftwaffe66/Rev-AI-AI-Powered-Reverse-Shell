@@ -58,4 +58,3 @@ La IA debe cumplir con las siguientes funciones clave:
 
 ---
 
-**Última Actualización**: 02 de mayo de 2025
