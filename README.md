@@ -4,7 +4,7 @@
 ![Platforms](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## You are working on an autonomous agent that is capable of performing hacking tasks on an operating system independently, please be alert.
+## 🚨 You are working on an autonomous agent that is capable of performing hacking tasks on an operating system independently, please be alert.
 _
 ## 📌 Overview
 
